@@ -1,0 +1,20 @@
+c:\users\techprocompsoft\documents\visual studio 2013\Projects\AdUpdater\AdUpdater\bin\Debug\AdUpdater.exe.config
+c:\users\techprocompsoft\documents\visual studio 2013\Projects\AdUpdater\AdUpdater\obj\Debug\AdUpdater.Form1.resources
+c:\users\techprocompsoft\documents\visual studio 2013\Projects\AdUpdater\AdUpdater\obj\Debug\AdUpdater.Resources.resources
+c:\users\techprocompsoft\documents\visual studio 2013\Projects\AdUpdater\AdUpdater\obj\Debug\AdUpdater.vbproj.GenerateResource.Cache
+c:\users\techprocompsoft\documents\visual studio 2013\Projects\AdUpdater\AdUpdater\bin\Debug\AdUpdater.exe
+c:\users\techprocompsoft\documents\visual studio 2013\Projects\AdUpdater\AdUpdater\bin\Debug\AdUpdater.pdb
+c:\users\techprocompsoft\documents\visual studio 2013\Projects\AdUpdater\AdUpdater\bin\Debug\AdUpdater.xml
+c:\users\techprocompsoft\documents\visual studio 2013\Projects\AdUpdater\AdUpdater\obj\Debug\AdUpdater.exe
+c:\users\techprocompsoft\documents\visual studio 2013\Projects\AdUpdater\AdUpdater\obj\Debug\AdUpdater.xml
+c:\users\techprocompsoft\documents\visual studio 2013\Projects\AdUpdater\AdUpdater\obj\Debug\AdUpdater.pdb
+C:\Users\jafimlan\Downloads\AdUpdater\AdUpdater\bin\Debug\AdUpdater.exe.config
+C:\Users\jafimlan\Downloads\AdUpdater\AdUpdater\obj\Debug\AdUpdater.exe
+C:\Users\jafimlan\Downloads\AdUpdater\AdUpdater\obj\Debug\AdUpdater.xml
+C:\Users\jafimlan\Downloads\AdUpdater\AdUpdater\obj\Debug\AdUpdater.pdb
+C:\Users\jafimlan\Downloads\AdUpdater\AdUpdater\obj\Debug\AdUpdater.Form1.resources
+C:\Users\jafimlan\Downloads\AdUpdater\AdUpdater\obj\Debug\AdUpdater.Resources.resources
+C:\Users\jafimlan\Downloads\AdUpdater\AdUpdater\obj\Debug\AdUpdater.vbproj.GenerateResource.Cache
+C:\Users\jafimlan\Downloads\AdUpdater\AdUpdater\bin\Debug\AdUpdater.exe
+C:\Users\jafimlan\Downloads\AdUpdater\AdUpdater\bin\Debug\AdUpdater.pdb
+C:\Users\jafimlan\Downloads\AdUpdater\AdUpdater\bin\Debug\AdUpdater.xml
